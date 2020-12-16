@@ -1,0 +1,11 @@
+.filter-box {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 10px;
+}
+
+.find-input {
+	width: auto;
+	flex-grow: 1;
+	margin-right: 3px;
+}
